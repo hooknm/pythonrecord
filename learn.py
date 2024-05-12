@@ -4,9 +4,16 @@ class learn():
     self._subject = subject
     self._id = id
 
-def is_id():
-  if self._subject = 'math':
-    return True
-  else:
-    return False
+  def is_id():
+    if self._subject = 'math':
+      return True
+    else:
+      return False
+      
+user1 = learn(math, 2)
+if user.is_id():
+  print('very good!')
+
+else:
+  print("so bad!")
   

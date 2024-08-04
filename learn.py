@@ -17,3 +17,11 @@ if user.is_id():
 else:
   print("so bad!")
   
+import time
+
+while True:
+    try:
+        print('Hi')
+        time.sleep(1)
+    except:
+        print('Bye')

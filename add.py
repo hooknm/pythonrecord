@@ -28,3 +28,15 @@ x = int(input('输入整数：'))
 s += x
 
 print('总和：%d' % s)
+
+
+"""
+判断奇偶数
+"""
+
+in_x = int(input('输入整数：'))
+
+if in_x % 2 == 0:
+    print('偶数')
+else:
+    print('奇数')

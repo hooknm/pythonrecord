@@ -40,3 +40,8 @@ if in_x % 2 == 0:
     print('偶数')
 else:
     print('奇数')
+
+
+language = "python"
+reversed_language = language[::-1]
+print(reversed_language) # nohtyp

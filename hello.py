@@ -9,3 +9,6 @@ def complex_function(a, b, c):
     if not x:
         # 一些关于x的计算的Plan-B
     return x  # 返回值x只有一个出口点有利于维护代码
+
+
+print('hello world')

@@ -41,3 +41,6 @@ class Employee:
  
    def displayEmployee(self):
       print "Name : ", self.name,  ", Salary: ", self.salary
+
+
+print(empCount)

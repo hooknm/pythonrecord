@@ -56,3 +56,5 @@ text = demjson.decode(json)
 print(text)
 
 print(language)
+
+lamguage = English

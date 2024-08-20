@@ -13,3 +13,4 @@ def complex_function(a, b, c):
 
 print('hello world')
 print("get a live domain.")
+print("have a good day.")
